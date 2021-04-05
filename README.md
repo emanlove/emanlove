@@ -1,1 +1,1 @@
-<img align="left" alt="I'm attending RoboCon 2021. See robocon.io to sign up!" src="https://github.com/emanlove/emanlove/blob/master/assets/img/Github-Attending-SignUp.png">
+<img align="left" alt="Markus Stahl talking about CamundaLibrary at East Coast Robot Framework User Group on Thursday April 15" src="https://github.com/emanlove/emanlove/blob/master/assets/img/ECRF-Markus-Camunda-04152021.png">
