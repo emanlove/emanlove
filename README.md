@@ -1,1 +1,1 @@
-<img align="left" alt="Markus Stahl talking about CamundaLibrary at East Coast Robot Framework User Group on Thursday April 15" src="https://github.com/emanlove/emanlove/blob/master/assets/img/ECRF-Markus-Camunda-04152021.png">
+<img align="left" alt="Ed Manlove talking about MarketSquare at East Coast Robot Framework User Group on Thursday April 29" src="https://github.com/emanlove/emanlove/blob/master/assets/img/ECRF-Ed-MarketSquare-04292021.png">
