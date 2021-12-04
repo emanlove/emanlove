@@ -1,1 +1,1 @@
-<img align="left" alt="Ed Manlove talking about MarketSquare at East Coast Robot Framework User Group on Thursday April 29" src="https://github.com/emanlove/emanlove/blob/master/assets/img/ECRF-Ed-MarketSquare-04292021.png">
+<img align="left" alt="RoboCon 2022 - Sign up at robocon.io" src="https://github.com/emanlove/emanlove/blob/master/assets/img/Twitter_Foundation_Cover_Timeless.png">
