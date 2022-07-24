@@ -1,1 +1,1 @@
-<img align="left" alt="RoboCon 2022 - Sign up at robocon.io" src="https://github.com/emanlove/emanlove/blob/master/assets/img/Twitter_Foundation_Cover_Timeless.png">
+<img align="left" alt="RoboCon 2022 - Sign up at robocon.io" src="https://github.com/emanlove/emanlove/blob/master/assets/img/DreamingOfHelsinkiInJanuary.png">
