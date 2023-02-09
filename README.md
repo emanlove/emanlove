@@ -1,1 +1,1 @@
-<a href="https://robocon.io/"><img align="left" alt="RoboCon 2023 - Sign up at robocon.io" src="https://github.com/emanlove/emanlove/blob/master/assets/img/RoboCon-Helsinki-2023-Github-banner.png"></a>
+<a href="https://robocon.io/"><img align="left" alt="RoboCon 2023 Online - Sign up at robocon.io" src="https://github.com/emanlove/emanlove/blob/master/assets/img/RoboCon2023-Online-LinkedIn-Post-Advert.gif"></a>
