@@ -1,1 +1,1 @@
-<a href="https://robocon.io/"><img align="left" alt="Check out Robot Framework at https://robotframework.org" src="https://github.com/emanlove/emanlove/blob/master/assets/img/LinkedIn-Post-ROBOTFRAMEWORK-Block.png"></a>
+<a href="https://robocon.io/"><img align="left" alt="Join us at RoboCon2026, the 9th annual Robot Framework conference. More information at https://robocon.io" src="https://github.com/emanlove/emanlove/blob/master/assets/img/2026-LinkedIn-Post-RoboCon2026-Dates.png"></a>
